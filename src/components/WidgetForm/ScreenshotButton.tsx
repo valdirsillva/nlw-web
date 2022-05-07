@@ -34,7 +34,6 @@ export function ScreenshotButton({
                     backgroundImage: `url(${screenshot})`,
                     backgroundPosition: 'right bottom',
                     backgroundSize: 180,
-
                 }}
                 >
                 
