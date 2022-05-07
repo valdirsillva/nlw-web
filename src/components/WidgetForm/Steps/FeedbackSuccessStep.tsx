@@ -7,7 +7,7 @@ interface FeedbackSuccessStepProps {
 
 export function FeedbackSuccessStep({ onFeedbackRestartRequested }: FeedbackSuccessStepProps) {
     return (
-            <>
+            <> 
                 <header>
                     <CloseButton />
                 </header>
